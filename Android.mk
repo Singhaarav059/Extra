@@ -43,7 +43,7 @@ LOCAL_MODULE_PATH := $(TARGET_OUT)/priv-app
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
-LOCAL_MODULE := Stellio Music Player
+LOCAL_MODULE := Stellio
 LOCAL_MODULE_TAGS := optional
 LOCAL_SRC_FILES := Stellio.apk
 LOCAL_CERTIFICATE := PRESIGNED
